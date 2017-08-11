@@ -687,16 +687,19 @@ body > input[type="radio"] {
 #btn_1:checked ~ .site_wrapper {
     background-color: #849d8f;
     background-image: url("../img/ice_cream_1.png");
+    background-position: 50% 50px;
 }
 
 #btn_2:checked ~ .site_wrapper {
     background-color: #8996a6;
     background-image: url("../img/ice_cream_2.png");
+    background-position: 50% 50px;
 }
 
 #btn_3:checked ~ .site_wrapper {
     background-color: #9d8b84;
     background-image: url("../img/ice_cream_3.png");
+    background-position: 50% 50px;
 }
 
 .site_wrapper::before {
