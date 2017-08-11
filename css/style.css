@@ -686,17 +686,17 @@ body > input[type="radio"] {
 
 #btn_1:checked ~ .site_wrapper {
     background-color: #849d8f;
-    background-image: url("../img/icecream_banner1.png");
+    background-image: url("../img/ice_cream_1.png");
 }
 
 #btn_2:checked ~ .site_wrapper {
     background-color: #8996a6;
-    background-image: url("../img/icecream_banner2.png");
+    background-image: url("../img/ice_cream_2.png");
 }
 
 #btn_3:checked ~ .site_wrapper {
     background-color: #9d8b84;
-    background-image: url("../img/icecream_banner3.png");
+    background-image: url("../img/ice_cream_3.png");
 }
 
 .site_wrapper::before {
