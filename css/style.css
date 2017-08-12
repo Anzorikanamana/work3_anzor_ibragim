@@ -1059,7 +1059,7 @@ body > input[type="radio"] {
 }
 
 .about_us_content:first-child p:first-child {
-    background: url("../img/mini_icecream.png");
+    background: url("../img/icons8-coffee.png");
     background-repeat: no-repeat;
     background-position: 0 5px;
     padding-top: 20px;
@@ -1067,14 +1067,14 @@ body > input[type="radio"] {
 }
 
 .about_us_content:first-child p:last-child {
-    background-image: url("../img/leaf.png");
+    background-image: url("../img/icons8-forest.png");
     background-repeat: no-repeat;
     background-position: 0 11px;
     padding-top: 26px;
 }
 
 .about_us_content:last-child p:first-child {
-    background-image: url("../img/cow.png");
+    background-image: url("../img/icons8-cow.png");
     background-repeat: no-repeat;
     background-position: -1px 2px;
     padding-top: 16px;
@@ -1082,7 +1082,7 @@ body > input[type="radio"] {
 }
 
 .about_us_content:last-child p:last-child {
-    background-image: url("../img/temp.png");
+    background-image: url("../img/icons8-temp.png");
     background-repeat: no-repeat;
     background-position: -1px 11px;
     padding-top: 25px;
