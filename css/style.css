@@ -987,7 +987,7 @@ body > input[type="radio"] {
     width: 560px;
     min-height: 229px;
     text-align: right;
-    background: #73172b url("../img/barries.jpg");
+    background: #73172b url("../img/black_satin.jpg");
     border-radius: 10px;
     position: relative;
     padding: 16px 20px;
@@ -995,7 +995,7 @@ body > input[type="radio"] {
 }
 
 .banner:last-child {
-    background: #3a2217 url("../img/choco.jpg");
+    background: #3a2217 url("../img/choco1.jpg");
     background-size: cover;
 }
 
