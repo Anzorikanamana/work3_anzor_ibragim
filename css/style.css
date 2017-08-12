@@ -537,7 +537,7 @@ main {
 }
 
 .main_nav {
-    max-width: 465px;
+    max-width: 470px;
     margin-left: 10px;
     min-height: 34px;
     padding: 14px 0px 0px 0px;
@@ -686,17 +686,20 @@ body > input[type="radio"] {
 
 #btn_1:checked ~ .site_wrapper {
     background-color: #849d8f;
-    background-image: url("../img/icecream_banner1.png");
+    background-image: url("../img/ice_cream_1.png");
+    background-position: 50% 50px;
 }
 
 #btn_2:checked ~ .site_wrapper {
     background-color: #8996a6;
-    background-image: url("../img/icecream_banner2.png");
+    background-image: url("../img/ice_cream_2.png");
+    background-position: 50% 50px;
 }
 
 #btn_3:checked ~ .site_wrapper {
     background-color: #9d8b84;
-    background-image: url("../img/icecream_banner3.png");
+    background-image: url("../img/ice_cream_3.png");
+    background-position: 50% 50px;
 }
 
 .site_wrapper::before {
@@ -984,7 +987,7 @@ body > input[type="radio"] {
     width: 560px;
     min-height: 229px;
     text-align: right;
-    background: #73172b url("../img/barries.jpg");
+    background: #73172b url("../img/black_satin.jpg");
     border-radius: 10px;
     position: relative;
     padding: 16px 20px;
@@ -992,7 +995,7 @@ body > input[type="radio"] {
 }
 
 .banner:last-child {
-    background: #3a2217 url("../img/choco.jpg");
+    background: #3a2217 url("../img/choco1.jpg");
     background-size: cover;
 }
 
@@ -1056,7 +1059,7 @@ body > input[type="radio"] {
 }
 
 .about_us_content:first-child p:first-child {
-    background: url("../img/mini_icecream.png");
+    background: url("../img/icons8-coffee.png");
     background-repeat: no-repeat;
     background-position: 0 5px;
     padding-top: 20px;
@@ -1064,14 +1067,14 @@ body > input[type="radio"] {
 }
 
 .about_us_content:first-child p:last-child {
-    background-image: url("../img/leaf.png");
+    background-image: url("../img/icons8-forest.png");
     background-repeat: no-repeat;
     background-position: 0 11px;
     padding-top: 26px;
 }
 
 .about_us_content:last-child p:first-child {
-    background-image: url("../img/cow.png");
+    background-image: url("../img/icons8-cow.png");
     background-repeat: no-repeat;
     background-position: -1px 2px;
     padding-top: 16px;
@@ -1079,7 +1082,7 @@ body > input[type="radio"] {
 }
 
 .about_us_content:last-child p:last-child {
-    background-image: url("../img/temp.png");
+    background-image: url("../img/icons8-temp.png");
     background-repeat: no-repeat;
     background-position: -1px 11px;
     padding-top: 25px;
