@@ -537,7 +537,7 @@ main {
 }
 
 .main_nav {
-    max-width: 465px;
+    max-width: 470px;
     margin-left: 10px;
     min-height: 34px;
     padding: 14px 0px 0px 0px;
@@ -686,17 +686,20 @@ body > input[type="radio"] {
 
 #btn_1:checked ~ .site_wrapper {
     background-color: #849d8f;
-    background-image: url("../img/icecream_banner1.png");
+    background-image: url("../img/ice_cream_1.png");
+    background-position: 50% 50px;
 }
 
 #btn_2:checked ~ .site_wrapper {
     background-color: #8996a6;
-    background-image: url("../img/icecream_banner2.png");
+    background-image: url("../img/ice_cream_2.png");
+    background-position: 50% 50px;
 }
 
 #btn_3:checked ~ .site_wrapper {
     background-color: #9d8b84;
-    background-image: url("../img/icecream_banner3.png");
+    background-image: url("../img/ice_cream_3.png");
+    background-position: 50% 50px;
 }
 
 .site_wrapper::before {
